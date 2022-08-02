@@ -50,6 +50,8 @@ You can install rosserial for Arduino by running:
 <h4>Note:</h4> <sketchbook> is the directory where the Linux Arduino environment saves your sketches. Typically this is a directory called sketchbook or Arduino in your home directory. e.g cd ~/Arduino/libraries.
 
 <h2>Finishing Up</h2>
+    
 After restarting your IDE, you should see ros_lib listed under examples:
+    
 
 ![Finishing](https://github.com/DaleenSofyan/RobotArmPackgeInstallation/blob/main/Images/check.png)
