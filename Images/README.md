@@ -1,1 +1,1 @@
-This file contains Images realted to the projeck
+This file contains Images related to the project
