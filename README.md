@@ -52,4 +52,4 @@ You can install rosserial for Arduino by running:
 <h2>Finishing Up</h2>
 After restarting your IDE, you should see ros_lib listed under examples:
 
-![Finishing](https://github.com/DaleenSofyan/RobotArmPackgeInstallation/blob/main/Images/Finishing.png)
+![Finishing](https://github.com/DaleenSofyan/RobotArmPackgeInstallation/blob/main/Images/check.png)
